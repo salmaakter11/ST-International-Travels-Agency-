@@ -1,0 +1,12 @@
+.dark_red {
+    background: rgb(40, 9, 50) !important;
+}
+
+.dark_blue {
+    background: rgb(5, 3, 28);
+}
+
+.card-header{
+    display: flow-root;
+}
+
